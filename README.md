@@ -1,5 +1,3 @@
-edit
-
 Project Description:
 The "Real-Time Water Level Monitoring System" is a Python-based project designed to provide accurate and up-to-date information about water levels in various locations. This project aims to address the need for efficient water level monitoring, which is crucial for a wide range of applications, including flood prediction, environmental monitoring, irrigation management, and more.
 
